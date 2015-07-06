@@ -11,9 +11,8 @@ In this analysis I dug into the MTA turnstile data, and churned out a list of th
 
 What I found out was that:
 
-In the Mornings:
+#In the Mornings
 People are generally coming in from the outer boroughs to work. 
-Traffic is heavily concentrated in X , Y, Z.
 
 ![alt text](../images/Mornings.png "Analysis for Morning Traffic")
 
