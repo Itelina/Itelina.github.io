@@ -11,27 +11,25 @@ In this analysis I dug into the MTA turnstile data, and churned out a list of th
 
 What I found out was that:
 
-In the Mornings:
+####In the Mornings
 People are generally coming in from the outer boroughs to work. 
-Traffic is heavily concentrated in X , Y, Z.
 
-<insert picture>
+![alt text](../images/Mornings.png "Analysis for Morning Traffic")
 
-During Lunch Periods:
-Some people are coming in for second shift. 
+####During Lunch Periods
 
 Traffic is heavily concentrated in X , Y, Z.
 
 <insert picture>
 
-In the Afternoons
+####In the Afternoons
 People are clearing out of Manhattan and heading back home. 
 
 Traffic is heavily concentrated in X , Y, Z.
 
 <insert picture>
 
-In the Evenings
+####In the Evenings
 Some traffic is coming from people going home on their "second shifts".  Overall traffic volume is lower. 
 
 Traffic is heavily concentrated in X , Y, Z.
