@@ -17,24 +17,19 @@ People are generally coming in from the outer boroughs to work.
 ![alt text](../images/Mornings.png "Analysis for Morning Traffic")
 
 ####During Lunch Periods
+During lunch hours, there are some people coming into the city (probably for the "2nd" shift). Overall traffic volume is lower compared to the mornings. 
 
-Traffic is heavily concentrated in X , Y, Z.
-
-<insert picture>
+![alt text](../images/Lunch.png "Analysis for Morning Traffic")
 
 ####In the Afternoons
 People are clearing out of Manhattan and heading back home. 
 
-Traffic is heavily concentrated in X , Y, Z.
-
-<insert picture>
+![alt text](../images/Afternoon.png "Analysis for Morning Traffic")
 
 ####In the Evenings
 Some traffic is coming from people going home on their "second shifts".  Overall traffic volume is lower. 
 
-Traffic is heavily concentrated in X , Y, Z.
-
-<insert picture>
+![alt text](../images/Evenings.png "Analysis for Morning Traffic")
 
 So … if you are trying to stay away from crowded subway stations, avoid Midtown during rush hours! And all the other high traffic stations highlighted above. 
 
