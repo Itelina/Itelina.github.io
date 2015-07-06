@@ -3,9 +3,11 @@ layout: post
 title: MTA Analysis
 ---
 
-Even if you don't, you might often be wondering - what subway stations are the busiest? If you are trying to avoid rush hour traffic and smelly subway trains in the morning/afternoons, which stations should you stay away from?  Say that we have a massive outbreak of flu in NYC - or that we are running away from zombies who are waiting to attack from high traffic stations - which areas should we stay away from?
+Are you a New Yorker who loves your subways?
 
-In this analysis I dug into one months of cumulative MTA turnstile data, and churned out a list of the highest traffic subway stations. You can find the data source here: http://web.mta.info/developers/turnstile.html
+Even if you don't, you might often be wondering - what subway stations are the busiest? How can I avoid rush hour traffic and smelly subway trains in the morning/afternoons?  Say that we have a massive outbreak of flu in NYC - or that we are running away from zombies who are waiting to attack from high traffic stations - which areas should we stay away from?
+
+In this analysis I dug into the MTA turnstile data, and churned out a list of the highest traffic subway stations. I looked into data throughout the weeks of 4/4/2015 to 4/15/2015. You can find the data source here: http://web.mta.info/developers/turnstile.html
 
 What I found out was that:
 
