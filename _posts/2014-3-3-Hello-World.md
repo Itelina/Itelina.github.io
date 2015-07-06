@@ -5,7 +5,7 @@ title: MTA Analysis
 
 Are you a New Yorker who loves your subways?
 
-Even if you don't, you might often be wondering - what subway stations are the busiest? How can I avoid rush hour traffic and smelly subway trains in the morning/afternoons?  Say that we have a massive outbreak of flu in NYC - or that we are running away from zombies who are waiting to attack from high traffic stations - which areas should we stay away from?
+Even if you don't, you might be wondering - which subway stations are the busiest? How can I avoid smelly subway trains in the early commute hours? 
 
 In this analysis I dug into the MTA turnstile data, and churned out a list of the highest traffic subway stations. I looked into data throughout the weeks of 4/4/2015 to 4/15/2015. You can find the data source here: http://web.mta.info/developers/turnstile.html
 
@@ -31,6 +31,6 @@ Some traffic is coming from people going home on their "second shifts".  Overall
 
 ![alt text](../images/Evenings.png "Analysis for Morning Traffic")
 
-So … if you are trying to stay away from crowded subway stations, avoid Midtown during rush hours! And all the other high traffic stations highlighted above. 
+So … if you want to avoid smelly subway stations during commuting hours ... stay away from the stations above! Especially midtown. 
 
 Happy commuting!!!
