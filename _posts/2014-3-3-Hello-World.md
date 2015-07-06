@@ -15,7 +15,7 @@ In the Mornings:
 People are generally coming in from the outer boroughs to work. 
 Traffic is heavily concentrated in X , Y, Z.
 
-<insert picture>
+![alt text](../images/Mornings.png "Analysis for Morning Traffic")
 
 During Lunch Periods:
 Some people are coming in for second shift. 
