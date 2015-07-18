@@ -19,9 +19,10 @@ Some researchers have accurately predicted movie box office success from analyzi
 
 ###Feature Selection and Transformation
 The features I considered included:
+
 	1. Brand (Disney, DreamWorks, Marvel Comics, etc)
 	Some brands are better than others.
-	
+
 	2. Distribution Company (Fox, Buena Vista, etc)
 	Bigger distribution companies will tend to get bigger/better movies and are able to get more of them into theaters.
 	
