@@ -45,11 +45,13 @@ The features I considered included:
 	More movies are released in summers or holiday seasons. 
 
 I experimented and settled on these feature transformations which improved my model performance:
+
 	1. I combined Brand & Genre (e.g. Action - Marvel Comics, Animation-Pixar). 
 	2. I included higher power terms for Screens.  Maximum screens have a non-linear relationship with total box office (since movies are screened over several weeks, with each subsequent week having fewer screens or theaters showing the movie).
 	3. I made dummy variables for the month of movie release . A couple of months (including June, November, December) showed significant relationship with box office success. 
 	4. I created a "star factor" variable which combines the effect from Oscar Stars with Oscar Directors and Series/Sequels. This factor awards movies with both Oscar Stars and Oscar Director more points, and even more if it  is part of a Series/Franchise. The equation was:
 	[Oscar Star(s) + Oscar Directors + Series + Oscar Star(s)* Series + Oscar Director * Series + Oscar Star(s) * Oscar Director]
+
 
 ###Model Performance
 After multiple iterations I achieved these results on 3 alternative models:
