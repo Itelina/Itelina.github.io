@@ -54,3 +54,6 @@ I also looked into - if I were to use my model to pick the top 20 box office hit
 ![alt text](../images/modelpredictions.png "Model Predictions")
 
 I got 16 out of 20 correct! Dammit Jonny Depp for making your flops.  
+
+[Additional Information and Datasets] (https://github.com/Itelina/BoxOfficePrediction)
+
