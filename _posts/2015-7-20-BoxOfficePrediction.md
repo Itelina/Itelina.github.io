@@ -21,28 +21,20 @@ Some researchers have accurately predicted movie box office success from analyzi
 The features I considered included:
 
 	1. Brand (Disney, DreamWorks, Marvel Comics, etc)
-	Some brands are better than others.
 
 	2. Distribution Company (Fox, Buena Vista, etc)
-	Bigger distribution companies will tend to get bigger/better movies and are able to get more of them into theaters.
 	
 	3. Series or Franchise (LOTR, X-Men, Hunger Games, etc.) 
-	Movies belonging to part of a Series/Franchise tend of do better at box office. 
 	
 	4. Genre (Action, Drama, Comedy, etc)
-	Some genres are more popular compared to others - for example action/adventure always tend to do better, while romantic comedies or dramas can more often be flops. 
 	
 	5. "Star" Actor/Actress (total Oscar-Nominated casts members)
-	Having stars help. 
 	
 	6. "Star" Director (Oscar-Nominated director)
-	Having awesome directors help.
 	
 	7. Maximum Screens
-	Highly anticipated or higher budget movies will tend to negotiate greater screen releases with theaters, which would naturally lead to greater box office success. This is one of the most highly correlated factors to movie box office success.
 	
 	8. Release Date
-	More movies are released in summers or holiday seasons. 
 
 I experimented and settled on these feature transformations which improved my model performance:
 
