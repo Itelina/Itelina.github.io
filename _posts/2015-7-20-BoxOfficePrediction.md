@@ -38,7 +38,7 @@ The features I considered included:
 	6. "Star" Director (Oscar-Nominated director)
 	Having awesome directors help.
 	
-	7. Maximum Screens . 
+	7. Maximum Screens
 	Highly anticipated or higher budget movies will tend to negotiate greater screen releases with theaters, which would naturally lead to greater box office success. This is one of the most highly correlated factors to movie box office success.
 	
 	8. Release Date
