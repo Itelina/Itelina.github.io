@@ -59,7 +59,7 @@ After multiple iterations I achieved these results on 3 alternative models:
 
 At each iteration I reduced the number of model parameters by taking out variables that are not significant, and it improves the model performance both on the training set and test set - good takeaway! Having a few significant strong predictors is better than having a ton of less significant predictors. 
 
-My final result: 81% R Squared! Not too bad for now since I am still a noob. 
+My final result: 81% R Squared! Not too bad for now. 
 
 ###What exactly does it all mean? Or how can I even use this?
 Well for one I can show off to friends. (You might be asking - who are these "friends"? Are you sure that they are still your "friends"? ) 
