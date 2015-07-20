@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a management consultant / aspiring data scientist with background in Economics from Princeton University. I live in NYC with my husband and a plant (don't really remember its type ...)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[itelinama@gmail.com](mailto:itelinama@gmail.com)
