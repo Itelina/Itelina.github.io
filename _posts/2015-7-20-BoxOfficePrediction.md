@@ -55,7 +55,7 @@ I experimented and settled on these feature transformations which improved my mo
 
 ###Model Performance
 After multiple iterations I achieved these results on 3 alternative models:
-<insert slide>
+![alt text](../images/modelresults.png "Model Results")
 
 At each iteration I reduced the number of model parameters by taking out variables that are not significant, and it improves the model performance both on the training set and test set - good takeaway! Having a few significant strong predictors is better than having a ton of less significant predictors. 
 
@@ -66,6 +66,6 @@ Well for one I can show off to friends. (You might be asking - who are these "fr
 
 I also looked into - if I were to use my model to pick the top 20 box office hits, how would it do against actual results. I used my test data to check this out and these are the results:
 
-<insert slide>
+![alt text](../images/modelpredictions.png "Model Predictions")
 
 I got 16 out of 20 correct! Dammit Jonny Depp for making your flops.  
