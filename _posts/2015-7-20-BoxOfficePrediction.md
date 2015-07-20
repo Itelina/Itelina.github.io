@@ -21,19 +21,12 @@ Some researchers have accurately predicted movie box office success from analyzi
 The features I considered included:
 
 	1. Brand (Disney, DreamWorks, Marvel Comics, etc)
-
 	2. Distribution Company (Fox, Buena Vista, etc)
-	
 	3. Series or Franchise (LOTR, X-Men, Hunger Games, etc.) 
-	
 	4. Genre (Action, Drama, Comedy, etc)
-	
 	5. "Star" Actor/Actress (total Oscar-Nominated casts members)
-	
 	6. "Star" Director (Oscar-Nominated director)
-	
 	7. Maximum Screens
-	
 	8. Release Date
 
 I experimented and settled on these feature transformations which improved my model performance:
