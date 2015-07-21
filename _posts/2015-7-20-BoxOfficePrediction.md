@@ -13,7 +13,7 @@ I make NO such bold claims. Instead I tinker with data and try to build a predic
 
 #####Background
 
-In this analysis I scrapped 5 years of movie data (2010 - 2015) from [boxofficemojo](http://boxofficemojo.com) and [imdb] (http://www.imdb.com/). For predictive algorithm I used linear regression here - saving the fancier ones for future posts. 
+In this analysis I scrapped 5 years of movie data (2010 - 2015) from [boxofficemojo](http://boxofficemojo.com) and [imdb] (http://www.imdb.com/). For predictive algorithm I used linear regression here.
 
 Some researchers have accurately predicted movie box office success from analyzing consumer activity prior to a movie's release, such as wikipedia edits, Facebook/Twitter, or Google Searches. One drawback to using this approach is that you might be limited by having to collect data right before the movie release. I might look into this for a future analysis - for now I focused mostly on "inherent" movie characteristics, such as movie genre, production company, movie screens, etc.
 
