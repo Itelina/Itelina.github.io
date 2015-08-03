@@ -10,5 +10,5 @@ I am a management consultant / aspiring data scientist with background in Econom
 
 [itelinama@gmail.com](mailto:itelinama@gmail.com)
 
-[My LinkedIn Page](https://www.linkedin.com/pub/itelina-xiaoye-ma/2a/770/14)
+[LinkedIn](https://www.linkedin.com/pub/itelina-xiaoye-ma/2a/770/14)
 
