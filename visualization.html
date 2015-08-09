@@ -6,10 +6,10 @@ layout: default
   {% for visualization in site.visualizations %}
     <article class="visualization">
 
-      <h1><a href="{{ site.baseurl }}{{ visualizations.url }}">{{visualizations.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ visualization.url }}">{{visualizations.title }}</a></h1>
 
-      <div class="entry">
-        {{ visualizations.excerpt }}
+      <div class="thumnail">
+        {{ visualization.thumbnail }}
       </div>
 
     </article>
