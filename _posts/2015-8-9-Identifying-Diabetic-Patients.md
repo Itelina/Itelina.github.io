@@ -31,7 +31,7 @@ Instead, what if I let my data tell me what diseases are correlated to diabetes?
 
 In my final model I included a total of 262 features. 
 
-The final variable that I predicted was a "yes" or "no" indicator for whether a patient has type II diabetes, as defined by ICD9 codes 250, 250.0, 250.*0 or 250.*2 (e.g., 250, 250.0, 250.00, 250.10, 250.52, etc)
+The dependent variable predicted was a "yes" or "no" indicator for whether a patient has type II diabetes, as defined by ICD9 codes 250, 250.0, 250.*0 or 250.*2 (e.g., 250, 250.0, 250.00, 250.10, 250.52, etc)
 
 ###Modeling Results
 
