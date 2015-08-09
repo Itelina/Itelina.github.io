@@ -22,7 +22,7 @@ After much research and exploratory analysis I decided to narrow down my feature
 4. Co-existing Conditions Presenting Risk for diabetes
 
 Visualization
-![alt text](../images/diabetesvisthumb.png "Diabetes Visualization") (https://itelina.github.io/firstvisualization.html)
+[![alt text](../images/diabetesvisthumb.png "Diabetes Visualization")] (https://itelina.github.io/firstvisualization.html)
 
 In my final model I included a total of 262 features. 
 
@@ -30,9 +30,9 @@ The final variable that I predicted was a "yes" or "no" indicator for whether a 
 
 ###Modeling Results
 
-I considered a variety of classification algorithms - my Logistic Regression model turned out to be the best performing one in terms of AUC (area under the curve for [ROC] (https://en.wikipedia.org/wiki/Receiver_operating_characteristic)). 
+I considered a variety of classification algorithms - my Logistic Regression model turned out to be the best performing one in terms of AUC (area under the curve for [ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)). 
 
-![alt text](../images/diabetesresults1.png "Diabetes Results 1")
+![alt text] (../images/diabetesresults1.png "Diabetes Results 1")
 
 I was able to achieve a final modeling accuracy of 84% for predicting whether or not a patient has diabetes based on their past 5 years of medical activity records. In real life implementation, I would favor moving toward the right side of the ROC curve, as I would rather have more false alarms in exchange for identifying more people that truly have the disease (higher false positive and higher true positive rates through setting lower thresholds). My model's final [log-loss rate] (http://www.quora.com/What-is-an-intuitive-explanation-for-the-log-loss-function) was 0.35, compared against the Kaggle challenge winnter's 0.33.
 
