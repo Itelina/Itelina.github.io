@@ -1,7 +1,12 @@
 ---
 layout: post
 title: Predicting Movie Box Office Success
+excerpt_separator: <!--more-->
 ---
+
+Excerpt
+<!--more-->
+Out-of-excerpt
 
 Can you predict this year's biggest box office hits in the theaters?
 
