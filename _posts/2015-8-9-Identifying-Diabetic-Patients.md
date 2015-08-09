@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Predicting Risk of Type II Diabetes
-excerpt: Type II diabetes affect ~9% Americans and often go undetected for a long time. In this analysis I built a classification model to identify patient's risk for Diabetes using de-identified Electronic Medical Records data. 
+excerpt: Type II diabetes affect ~9% Americans and often go undetected in early stages. In this analysis I built a model to predict an individual's risk for Diabetes based on their medical records (such as pre-existing conditions, BMI, blood pressure, etc).
 ---
 
 Diabetes is the 7th leading cause of death in the US. Roughly 9.3% Americans have it. Most importantly, type II diabetes often go undetected, because it is largely asymptomatic in its early stages - about 25% of people with type II diabetes don't know that they have it. 
