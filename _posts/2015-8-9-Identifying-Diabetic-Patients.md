@@ -21,7 +21,12 @@ After much research and exploratory analysis I decided to narrow down my feature
 3. Age/Gender
 4. Co-existing Conditions Presenting Risk for diabetes
 
-Visualization
+One of the challenges I faced with #4 was - which diseases are significantly correlated with Diabetes? There were about 3000 unique ICD9 codes in the dataset, should I include all of them in a brute force manner, or should I selectively combine/group them? Which method will let me optimize my model accuracy?
+
+I initially tried to do this via research - I read through a bunch of medical articles and created a list of diseases that are known to be correlated to diabetes. The issue with this approach is that I could not be certain whether I was comprehensive - if I was a doctor, or if I had infinite research time, I might be more certain of that. The [wiki] (https://en.wikipedia.org/wiki/Diabetes_mellitus_type_2) page on Type II Diabetes gives a good summary of some of the major complications.
+
+Instead, what if I let my data tell me what diseases are correlated to diabetes? To help visualize this - I created this graphic below to illustrate the diseases that are correlated to diabetes. (Click on the picture to go to the interactive visualization page)
+
 [![alt text](../images/diabetesvisthumb.png "Diabetes Visualization")] (http://itelina.github.io/firstvisualization.html)
 
 In my final model I included a total of 262 features. 
