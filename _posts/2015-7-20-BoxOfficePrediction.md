@@ -9,11 +9,13 @@ Can you predict this year's biggest box office hits in the theaters?
 
 My husband claims that he can by his gut feelings.  Simply on whether it's a superhero movie or a Disney animated film.  Especially because he thinks Disney is trying to take over the world.
 
+<!--more-->
+
 ![alt text](../images/predictpic.png "Prediction Comic")
 
 I make NO such bold claims. Instead I tinker with data and try to build a predictive model -
 
-<!--more-->
+
 
 ####Background
 
