@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Predicting Movie Box Office Success
-excerpt: Can you predict this year's biggest box office hits in the theaters? Short post on building a predictive model!
+excerpt: Can you predict this year's biggest box office hits in the theaters? On building a predictive model for box office success -
 ---
 
 
