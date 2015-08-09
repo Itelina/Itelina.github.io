@@ -21,6 +21,9 @@ After much research and exploratory analysis I decided to narrow down my feature
 3. Age/Gender
 4. Co-existing Conditions Presenting Risk for diabetes
 
+Visualization
+![alt text](../images/diabetesvisthumb.png "Diabetes Visualization") (https://itelina.github.io/firstvisualization.html)
+
 In my final model I included a total of 262 features. 
 
 The final variable that I predicted was a "yes" or "no" indicator for whether a patient has type II diabetes, as defined by ICD9 codes 250, 250.0, 250.*0 or 250.*2 (e.g., 250, 250.0, 250.00, 250.10, 250.52, etc)
