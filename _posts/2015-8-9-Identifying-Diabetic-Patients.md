@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Identifying Diabetic Type II Patients
+title: Predicting Risk of Type II Diabetes
 excerpt: Type II diabetes affect ~9% Americans and often go undetected for a long time. In this analysis I built a classification model to identify patient's risk for Diabetes using de-identified Electronic Medical Records data. 
 ---
 
