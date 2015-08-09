@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Visualizations
-permalink: /visualization/
+permalink: /visualizations/
 ---
