@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Visualizations
+title: Visualization
 permalink: /visualizations/
 ---
