@@ -35,5 +35,4 @@ I was able to achieve a final modeling accuracy of 84% for predicting whether or
 
 ![alt text](../images/diabetesresults2.png "Diabetes Results 2")
 
-Now ... time to go exercise ... with my new-found understanding of what causes diabetes ...
-
+Now that we understand what causes diabetes ... time to exercise??? *cue to nag husband :)
