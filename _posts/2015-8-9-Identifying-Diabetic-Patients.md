@@ -33,7 +33,7 @@ I considered a variety of classification algorithms - my Logistic Regression mod
 
 I was able to achieve a final modeling accuracy of 84% for predicting whether or not a patient has diabetes based on their past 5 years of medical activity records. In real life implementation, I would favor moving toward the right side of the ROC curve, as I would rather have more false alarms in exchange for identifying more people that truly have the disease (higher false positive and higher true positive rates through setting lower thresholds). My model's final [log-loss rate] (http://www.quora.com/What-is-an-intuitive-explanation-for-the-log-loss-function) was 0.35, compared against the Kaggle challenge winnter's 0.33.
 
-![alt text](../images/diabetesresults1.png "Diabetes Results 2")
+![alt text](../images/diabetesresults2.png "Diabetes Results 2")
 
 Now ... time to go exercise ... with my new-found understanding of what causes diabetes ...
 
