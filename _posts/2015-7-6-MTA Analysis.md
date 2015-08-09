@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MTA Analysis
+title: Analyzing Subway Traffic
 excerpt: Are you are New Yorker who loves your subways? On analyzing MTA turnstile data to identify high volume stations -
 ---
 
