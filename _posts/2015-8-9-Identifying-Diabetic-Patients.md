@@ -22,7 +22,7 @@ After much research and exploratory analysis I decided to narrow down my feature
 4. Co-existing Conditions Presenting Risk for diabetes
 
 Visualization
-[![alt text](../images/diabetesvisthumb.png "Diabetes Visualization")] (https://itelina.github.io/firstvisualization.html)
+[![alt text](../images/diabetesvisthumb.png "Diabetes Visualization")] (http://itelina.github.io/firstvisualization.html)
 
 In my final model I included a total of 262 features. 
 
