@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 28px;
-  font-weight: 500;
+  font-weight: bold;
   a {
     color: inherit;
   }
@@ -272,6 +272,7 @@ nav {
   font-size: 17px;
   font-family: 'PT Serif', serif;
   padding: inherit;
+  line-height: 1.5;
 
   }
   .read-more {
