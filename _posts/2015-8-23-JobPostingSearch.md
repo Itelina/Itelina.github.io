@@ -27,7 +27,7 @@ Lastly I used LDA modeling to extract the relevant topics, and then I grouped th
 ###Visualization App
 I developed an app to visualize the results! I mostly used d3, html, javascript. Check it out here (click on the image to go to the interactive app):
 
-[![alt text](../images/jobsearchapp.png "Job Search App")] (http://http://jobsearchcompanion.herokuapp.com/)
+[![alt text](../images/jobsearchapp.png "Job Search App")] (http://jobsearchcompanion.herokuapp.com/)
 
 I did this project in a relatively short period of time (2 weeks), and I spent a lot of time learning how to make the front end work, so I would love to improve some aspects of the analyses in the future. For example, while currently I am only considering the top "topic" for each job posting when grouping them, I would love to consider multiple topics for each job postings as a way to group them. I would also love to scale this so that the user can input any job types or cities and get the same analyses. Some day …
 
