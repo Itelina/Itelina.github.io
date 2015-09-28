@@ -15,7 +15,7 @@ This problem can be particularly notorious for data science jobs - since there i
 I figured that this is a ripe opportunity to do some natural language processing and topic modeling. Suppose that I look into the texts for each job posting, and analyze the prevalent "topics" through LDA topic modeling. I hypothesize that if I process the texts appropriately, the topics will point to core competency groups in data science, such as business, machine learning, programming. And each job posting with ask for particular competencies. Based on the top competencies that a job posting ask for, you as a job seeker can figure out whether a particular posting is the right fit for you, both in terms of what you can do currently and how you would like to grow as a professional.
 
 ###Data Scraping
-I scraped all job postings for "data scientist" from indeed.com using their search API. The data points I collected include  job posting description, company, position. I mostly used BeautifulSoup and stored the data points I collected in MongoDB. 
+I scraped all job postings for "data scientist" from indeed.com using their search API. The data points I collected include  job posting description, company, position. I mostly used BeautifulSoup and stored the data I collected in a MongoDB database. 
 
 ###NLProcessing and Analysis
 The first thing I did after scraping search results from Indeed was to exclude "irrelevant" search results - for example sometimes Indeed would return results for "scientist" positions rather than "data scientist" positions. This would reduce the overall job postings to about ~300. 
