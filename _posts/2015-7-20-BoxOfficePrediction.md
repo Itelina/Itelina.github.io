@@ -15,13 +15,13 @@ My husband claims that he can by his gut feelings.  Simply on whether it's a sup
 I make NO such bold claims. Instead I tinker with data and try to build a predictive model -
 
 
-####Background
+###Background
 
 In this analysis I scrapped 5 years of movie data (2010 - 2015) from [boxofficemojo](http://boxofficemojo.com) and [imdb] (http://www.imdb.com/). For predictive algorithm I used linear regression here.
 
 Some researchers have accurately predicted movie box office success from analyzing consumer activity prior to a movie's release, such as wikipedia edits, Facebook/Twitter, or Google Searches. One drawback to using this approach is that you might be limited by having to collect data right before the movie release. I might look into this for a future analysis - for now I focused mostly on "inherent" movie characteristics, such as movie genre, production company, movie screens, etc.
 
-####Feature Selection and Transformation
+###Feature Selection and Transformation
 The features I considered included:
 
 	1. Brand (Disney, DreamWorks, Marvel Comics, etc)
@@ -42,7 +42,7 @@ I experimented and settled on these feature transformations which improved my mo
 [Oscar Star(s) + Oscar Directors + Series + Oscar Star(s)* Series + Oscar Director * Series + Oscar Star(s) * Oscar Director]
 
 
-####Model Performance
+###Model Performance
 After multiple iterations I achieved these results on 3 alternative models:
 ![alt text](../images/modelresults.png "Model Results")
 
@@ -50,7 +50,7 @@ At each iteration I reduced the number of model parameters by taking out variabl
 
 My final result: 81% R Squared! Not too bad for now. 
 
-####What exactly does it all mean? Or how can I even use this?
+###What exactly does it all mean? Or how can I even use this?
 Well for one I can show off to friends. (You might be asking - who are these "friends"? Are you sure that they are still your "friends"? ) 
 
 I also looked into - if I were to use my model to pick the top 20 box office hits, how would it do against actual results. I used my test data to check this out and these are the results:

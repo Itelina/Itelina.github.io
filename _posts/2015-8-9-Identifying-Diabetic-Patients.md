@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Predicting Risk of Type II Diabetes
+title: Identifying Risk of Type II Diabetes
 excerpt: Type II diabetes affect ~9% Americans and often go undetected in early stages. Can we use EMR data to help with early disease detection? On using classification algorithms to predict an individual's risk for Diabetes -
 ---
 
