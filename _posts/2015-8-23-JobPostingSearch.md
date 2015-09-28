@@ -6,6 +6,8 @@ excerpt: Reading through the thousands of job postings on Indeed.com can be over
 
 So the first time that I searched for "data scientist" jobs in NYC on indeed.com, I got 2,125 results. I read through maybe the first 200 results and gave up all together. This is too much to read!
 
+![alt text](../images/indeed.jpg "Indeed Job Search Results")
+
 Granted, most of the time people find jobs through their networks, but suppose that you have no such luxuries, and have to start from the common job boards, how can you pick out the ones that are the most relevant to you, from thousands of results?
 
 This problem can be particularly notorious for data science jobs - since there is a lot of ambiguity by nature. Some data science roles may emphasize your knowledge of engineering, machine learning, while others emphasize on your business intuition, ability to ask the right questions, etc. Some companies may not be mature enough to understand what they are looking for. A [VERY good study] (http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf) here discussing the differences in data scientist roles published by O'Reilly.
