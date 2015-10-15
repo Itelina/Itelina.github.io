@@ -10,7 +10,7 @@ Several years ago CMS began publishing a dataset on physician referrals. The dat
 
 My goal for this project was to identify and rank the most "influential" doctors, within a specified referring relationship. For example, if I want to look for options in finding a cardiologist, can I find out who is the most influential, based on primary care providers,  through centrality measures? Aka according to primary care doctors, which specialist do they like to refer most of their patients to? 
 
-Now referral patterns/decisions can be driven by many factors - such as a doctor's personal network, previous experience, etc. In continuing analyses I would delve into this more, identify what some of these factors are, how they contribute to referrals, and potentially how we could get a more "pure" view of referrals driven primary due to quality of care/patient experience etc. For this analysis I developed an app to visualize the network relationships, and the top ranking doctors by the Eigenvector Centrality measure.
+Now referral patterns/decisions can be driven by many factors - such as a doctor's personal network, previous experience, etc. In continuing analyses I would delve into this more, identify what some of these factors are, how they contribute to referrals, and potentially how we could get a more "pure" view of referrals driven primary due to quality of care/patient experience etc. For this analysis I developed an app to visualize the network relationships, and the top ranking doctors by the Eigenvector Centrality measure (click on the image below to be taken to the app).
 
 [![alt text](../images/doctorvis.png "Doctor Network App")] (http://ec2-52-20-33-40.compute-1.amazonaws.com/)
 
