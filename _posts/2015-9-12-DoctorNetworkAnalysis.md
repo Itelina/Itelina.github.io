@@ -4,7 +4,7 @@ title: Identifying "Reputable" Doctors
 excerpt: Identifying a reputable, "good" doctor can be difficult. Can we use network analysis to help? A network analysis on physician referral patterns  -
 ---
 
-Generally, finding a "good", reputable doctor can be difficult. We have many resources out there - insurance websites or Zocdoc etc - but rarely do these resources provide reliable information on the quality of care, experience, or even outcome from potential providers. Are there creative ways that we can provide more transparency? Are there public data sources that can help us with that?
+Generally, finding a "good", reputable doctor can be difficult. We have many resources out there - insurance websites or Zocdoc etc - but rarely do these resources provide reliable information on the quality of care and experience that you might expect to receive from potential providers. Are there creative ways that we can provide more transparency? Are there public data sources that can help us with that?
 
 Several years ago CMS began publishing a dataset on physician referrals. The dataset contain information for each referring, referred to doctor, and the actual volume of referrals as seen through their medical claims. Using the NPI numbers provided, you can also piece it together with other information on providers, such as their specialty, location, etc. This dataset presents a rich opportunity to analyze the network relationships between physicians.
 
