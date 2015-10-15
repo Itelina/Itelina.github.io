@@ -12,5 +12,5 @@ My goal for this project was to identify and rank the most "influential" doctors
 
 Now referral patterns/decisions can be driven by many factors - such as a doctor's personal network, previous experience, etc. In continuing analyses I would delve into this more, identify what some of these factors are, how they contribute to referrals, and potentially how we could get a more "pure" view of referrals driven primary due to quality of care/patient experience etc. For this analysis I developed an app to visualize the network relationships, and the top ranking doctors by the Eigenvector Centrality measure.
 
-[App link]: ec2-52-20-33-40.compute-1.amazonaws.com
-[Github link]: https://github.com/Itelina/DoctorRecommendationApp
+[![alt text](../images/doctorvis.png "Doctor Network App")] (http://ec2-52-20-33-40.compute-1.amazonaws.com/)
+
