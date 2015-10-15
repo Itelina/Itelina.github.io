@@ -22,23 +22,13 @@ To illustrate an example search: suppose that you want to visualize the network 
 4. Click "search" icon
 
 ####Data Sources
-	1. NPI
-	https://www.cms.gov/Regulations-and-Guidance/HIPAA-Administrative-Simplification/NationalProvIdentStand/DataDissemination.html
-	
-	2. Physician Medicare Data
-	https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier2013.html
-	
-	3. Physician Taxonomy Codes
-	http://www.nucc.org/index.php?option=com_content&view=article&id=107&Itemid=132
-	
-	4. Taxonomy Crosswalk
-	https://www.cms.gov/Medicare/Provider-Enrollment-and-Certification/MedicareProviderSupEnroll/Downloads/TaxonomyCrosswalk.pdf
-	
-	5. Physician Referral Data
-	https://questions.cms.gov/faq.php?faqId=7977
-	
-	6. Physician Compare
-	https://data.medicare.gov/data/physician-compare
+	1. [Physician Referral Data](https://questions.cms.gov/faq.php?faqId=7977)	
 
-	7. Specialty Certificates
-	http://www.abms.org/member-boards/specialty-subspecialty-certificates/
+	2. [Physician NPI Data](https://www.cms.gov/Regulations-and-Guidance/HIPAA-Administrative-Simplification/NationalProvIdentStand/DataDissemination.html)
+	
+	3. [Physician Medicare Data](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier2013.html)
+	
+	4. [Physician Taxonomy Codes](http://www.nucc.org/index.php?option=com_content&view=article&id=107&Itemid=132)
+	
+	5. [Taxonomy Crosswalk](https://www.cms.gov/Medicare/Provider-Enrollment-and-Certification/MedicareProviderSupEnroll/Downloads/TaxonomyCrosswalk.pdf)
+	
