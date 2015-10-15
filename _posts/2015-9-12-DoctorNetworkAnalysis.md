@@ -15,8 +15,9 @@ Now referral patterns/decisions can be driven by many factors - such as a doctor
 [![alt text](../images/doctorvis.png "Doctor Network App")] (http://ec2-52-20-33-40.compute-1.amazonaws.com/)
 
 To illustrate an example search: suppose that you want to visualize the network relationships between primary care doctors and cardiologists in NYC:
-A. Type in New York, NY for city
-B. Select referring doctor as "Allopathic etc", "Internal Medicine", "General" (this classification refers to primary care doctors)
-C. Select referred to doctor as "Allopathic etc", "Internal Medicine", "Cardiovascular Disease" 
-D. Click "search" icon - might take a bit for it to compute
+
+1. Type in New York, NY for city
+2. Select referring doctor as "Allopathic etc", "Internal Medicine", "General" (this classification refers to primary care doctors)
+3. Select referred to doctor as "Allopathic etc", "Internal Medicine", "Cardiovascular Disease" 
+4. Click "search" icon
 
