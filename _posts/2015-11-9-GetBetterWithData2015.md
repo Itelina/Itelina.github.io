@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get Better with Data Health Hackathon 2015
-excerpt: Awesome hackathon where we spent 1 day analyzing publically available healthcare data. My team did an analysis on procedure code cost variables.
+excerpt: Awesome hackathon where we spent 1 day analyzing publically available healthcare data. My team did an analysis on procedure code cost variations.
 ---
 
 [Get Better with Data](http://getbetterwithdata.com/) was awesome!! This was my first hackathon ever and I was lucky to have an awesome team including [Ting Feng] (https://www.linkedin.com/in/tingfeng) , [Angel Wong] (https://www.linkedin.com/in/angelywong), and [Gerardo Sierra] (https://www.linkedin.com/in/gerardo-sierra-79a99b44). We were assigned to do visualization, so we decided to use the [Medicare Utilization and Payment Dataset] (https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier2013.html) to analyze  variations in procedure costs. 
